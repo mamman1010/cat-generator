@@ -1,0 +1,17 @@
+.container {
+    width: 75%;
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+}
+.flex-box-container-2 {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    border: 1px solid blue;
+    justify-content: space-around;
+}
+.flex-box-container-2 img{
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
+    margin: 10px;
+}
